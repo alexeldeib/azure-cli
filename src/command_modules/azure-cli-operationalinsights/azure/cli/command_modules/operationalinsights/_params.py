@@ -4,7 +4,7 @@
 # --------------------------------------------------------------------------------------------
 
 # pylint: disable=line-too-long
-# from azure.cli.core.commands.parameters import name_type
+
 
 def load_arguments(self, _):
     with self.argument_context('operationalinsights') as c:

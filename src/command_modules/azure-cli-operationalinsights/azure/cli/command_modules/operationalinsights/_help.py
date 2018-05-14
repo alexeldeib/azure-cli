@@ -17,6 +17,6 @@ helps['operationalinsights query'] = """
         - kql: --kql -k
           type: string
           short-summary: Query to execute over the Log Analytics data.
-    examples: 
-        - name: 
+    examples:
+        - name:
 """
